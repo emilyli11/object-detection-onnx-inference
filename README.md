@@ -1,7 +1,14 @@
 # object-detection-onnx-inference
 
 The main focus of this project would be to showcase the steps involved in inference of an ONNX-based object detection model. 
-The content of the project could include the following:
+### Required input: 
+data_images.zip
+yolo_weight.onnx.zip
+
+### Expected output:
+onnx_output.csv
+
+### The content of the project could include the following:
 1. [Introduction to ONNX](#1-introduction-to-onnx)
 2. [Setting up the Environment](#2-setting-up-the-environment)
 3. [Preprocessing the Input Image](#3-preprocessing-the-input-image)
