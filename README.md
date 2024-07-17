@@ -27,9 +27,12 @@ If you want to get to know more of how is the onnx architecture is you can acces
     <a id="2-setting-up-the-environment"><h2 itemprop="name"> 2. Setting up the Environment</h2></a>
     <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
+        
 ```python
+        
 !pip install onnxruntime
 !pip install onnx
+
 ```
 
 
