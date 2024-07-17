@@ -7,7 +7,11 @@ The content of the project could include the following:
 3. [Preprocessing the Input Image](#3-preprocessing-the-input-image)
 4. [Running the Inference](#4-running-the-inference)
 
-
+<html itemscope itemtype="https://schema.org/FAQPage">
+  <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <a id="1-what-is-onnx"><h2 itemprop="name"> 1. Introduction to ONNX</h2></a>
+    <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+      <div itemprop="text">
 [ONNX, the Open Neural Network eXchange](https://onnx.ai/), is an open format and standard built to represent machine learning models.The goal of ONNX is to provide a unified way to represent deep learning models, allowing them to be easily transferred and deployed across different platforms and ecosystems.
 If you want to get to know more of how is the onnx architecture is you can access to [netron](https://netron.app/)
 
