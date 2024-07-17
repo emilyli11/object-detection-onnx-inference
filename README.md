@@ -3,6 +3,7 @@
 The main focus of this project would be to showcase the steps involved in inference of an ONNX-based object detection model. 
 ### Required input: 
 data_images.zip
+
 yolo_weight.onnx.zip
 
 ### Expected output:
