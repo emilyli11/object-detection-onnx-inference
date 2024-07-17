@@ -9,7 +9,7 @@ The content of the project could include the following:
 
 <html itemscope itemtype="https://schema.org/FAQPage">
   <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-    <a id="1-what-is-onnx"><h2 itemprop="name"> 1. Introduction to ONNX</h2></a>
+    <a id="1-introduction-to-onnx"><h2 itemprop="name"> 1. Introduction to ONNX</h2></a>
     <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
 [ONNX, the Open Neural Network eXchange](https://onnx.ai/), is an open format and standard built to represent machine learning models.The goal of ONNX is to provide a unified way to represent deep learning models, allowing them to be easily transferred and deployed across different platforms and ecosystems.
