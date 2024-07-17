@@ -1,9 +1,18 @@
 # object-detection-onnx-inference
-OBJECT DETECTION model onnx to humanreadble format
+
+The main focus of this project would be to showcase the steps involved in inference of an ONNX-based object detection model. 
+The content of the project could include the following:
+1. [Introduction to ONNX](#1-introduction-to-onnx)
+2. [Setting up the Environment](#2-setting-up-the-environment)
+3. [Preprocessing the Input Image](#3-preprocessing-the-input-image)
+4. [Running the Inference](#4-running-the-inference)
+
 
 [ONNX, the Open Neural Network eXchange](https://onnx.ai/), is an open format and standard built to represent machine learning models.The goal of ONNX is to provide a unified way to represent deep learning models, allowing them to be easily transferred and deployed across different platforms and ecosystems.
 If you want to get to know more of how is the onnx architecture is you can access to [netron](https://netron.app/)
 
 ## How to convert onnx to human readable 
+
+
 ## Usage procedures 
 ## Reference 
