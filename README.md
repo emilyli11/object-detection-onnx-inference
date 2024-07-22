@@ -22,7 +22,7 @@ onnx_output.csv
       <div itemprop="text">
         
 [ONNX, the Open Neural Network eXchange](https://onnx.ai/), is an open format and standard built to represent machine learning models.The goal of ONNX is to provide a unified way to represent deep learning models, allowing them to be easily transferred and deployed across different platforms and ecosystems.
-To know more about the architecture of your onnx file, you can access to [netron](https://netron.app/)
+To better understand the structure of your ONNX model, you can access to [netron](https://netron.app/).
 
 <html itemscope itemtype="https://schema.org/FAQPage">
   <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
