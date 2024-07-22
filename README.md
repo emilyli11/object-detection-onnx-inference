@@ -4,7 +4,7 @@ The main focus of this project would be to showcase the steps involved in infere
 ### Required input: 
 data_images.zip
 
-yolo_weight.onnx.zip
+object_detection.onnx.zip
 
 ### Expected output:
 onnx_output.csv
