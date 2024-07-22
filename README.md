@@ -1,6 +1,6 @@
 # object-detection-onnx-inference
 
-The main focus of this project would be to showcase the steps involved in inference of an ONNX-based object detection model. 
+The primary objective of this project would be to demonstrate the steps involved in the inference process of an ONNX-based object detection model.
 ### Required input: 
 data_images.zip
 
