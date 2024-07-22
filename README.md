@@ -48,6 +48,4 @@ If you want to get to know more of how is the onnx architecture is you can acces
     <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
       <div itemprop="text">
 
-
-## Usage procedures 
 ## Reference 
